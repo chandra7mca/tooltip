@@ -23,7 +23,7 @@ USAGE :
 
 $(selector).tooltip();	// Basic Usage
 
-$(selector).tooltip({options});	// To Customize the tooltip Behaviour
+$(selector).tooltip( {options} );	// To Customize the tooltip Behaviour
 
 Options :
 =========
