@@ -1,0 +1,57 @@
+h2, div, input, p {
+	margin: 10px 5px 10px 5px;
+}
+body {
+	color: white;
+	width: 800px;
+	margin: 0 auto;
+	border: 1px solid lightgrey;
+	background: grey;
+}
+
+h2 {
+	
+	border: 1px solid lightgreen;
+	height: 40px;
+}
+
+p {
+	
+	border: 1px solid lightgreen;
+	height: 40px;
+}
+
+div {
+	
+	border: 1px solid lightgreen;
+	height: 40px;
+}
+
+form {
+	width: 500px;
+	height: auto;
+	
+	border: 1px solid lightgreen;
+}
+
+ul {
+	
+	border : 1px solid lightgreen;
+	
+	list-style-type: none;
+}
+
+h3 {
+	margin: 0 auto;
+	display: block;
+	
+	border: 1px solid lightgreen;
+	width: 800px;
+	height: 100px;
+	text-align: center;
+}
+
+h3 label {
+	padding-top: 20px;
+	display: block;
+}

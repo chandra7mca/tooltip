@@ -1,0 +1,46 @@
+<html>
+	<head>
+		<title> Tooltip Example </title>
+		
+		<link rel="stylesheet" type="text/css" href="../tooltip.css"/>
+		<link rel="stylesheet" type="text/css" href="example1.css"/>
+		
+		<script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="../tooltip.js"></script>
+		
+		<script type="text/javascript" src="example1.js"></script>
+		<script type="text/javascript" src="formValidations.js"></script>
+	</head>
+	
+	<body>
+		<h2 title="This is a Tooltip of Heading2 "> This is a Heading 2 - Tooltip Position : BOTTOM-CENTER (Default One)</h2>
+		<p title="This is a Tooltip of Paragraph"> This is a Paragraph - Tooltip Position : RIGHT  </p>
+		<div title="This is a Tooltip of Div Block">
+			This is a Div Block - Tooltip Position : LEFT
+		</div>
+		
+		<form title="This is a Login Form" action="#" method="GET">
+			<label> User Name </label> <input type="text" name="username" title=" Please enter your name " class='inputField autoFocus required alphaNumeric minLength3 maxLength10'> <br/>
+			<label> Password </label> <input type="password" name="password" title=" Please specify a Password " class='inputField required specifiedChars minLength3 maxLength20'> <br/>
+			
+			<input type="submit" value=" Login " title=" Click here to Login "/>
+		</form>
+		
+		<ul title="This is a Tooltip for Unordered List">
+			<li> Item - 1 </li>
+			<li> Item - 2 </li>
+			<li> Item - 3 </li>
+			<li> Item - 4 </li>
+			<li> Item - 5 </li>
+			<li> Tooltip Position : TOP-RIGHT </li>
+		</ul>
+		
+		<br/>
+		
+		<h3>
+			<label>
+				Element with Tooltips on all Sides, with some default themes
+			</label>
+		</h3>
+	</body>
+</html>

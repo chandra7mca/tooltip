@@ -1,0 +1,73 @@
+.jtip-default {
+	background-color: rgb(238,255,255);
+	border-color: rgb(153,238,255);
+	color: rgb(0,0,0);
+}
+
+.jtip-info {
+	background-color: rgb(217,237,247);
+	border-color: rgb(154,207,234);
+	color: rgb(49,112,143);
+}
+
+.jtip-warn {
+	background-color: rgb(252,248,227);
+	border-color: rgb(245,231,158);
+	color: rgb(138,109,91);
+}
+
+.jtip-error {
+	background-color: rgb(242,222,222);
+	border-color: rgb(220,167,167);
+	color: rgb(169,68,68);
+}
+
+.jtip-success {
+	background-color: rgb(223,240,216);
+	border-color: rgb(178,219,161);
+	color: rgb(119,179,143);
+}
+
+.jtip-fail {
+	background-color: rgb(247,152,146);
+	border-color: rgb(206,110,111);
+	color: rgb(195,65,65);	
+}
+
+.jtip-custom {
+	
+}
+
+.jtip-icon-info {
+	background: url('./images/info.png') no-repeat 24px 24px;
+	background-position: left;
+	width: 24px; height: 24px;
+}
+
+.jtip-icon-warn{
+	background: url('./images/warn.png') no-repeat 24px 24px;
+	background-position: left;	
+	width: 24px; height: 24px;
+}
+
+.jtip-icon-error{
+	background: url('./images/error.png') no-repeat 24px 24px;
+	background-position: left;
+	width: 24px; height: 24px;
+}
+
+.jtip-icon-success {
+	background: url('./images/success.png') no-repeat 24px 24px;
+	background-position: left;	
+	width: 24px; height: 24px;
+}
+
+.jtip-icon-fail{
+	background: url('./images/fail.png') no-repeat 24px 24px;
+	background-position: left;
+	width: 24px; height: 24px;
+}
+
+.jtip-no-icon {
+	background: none;
+}
