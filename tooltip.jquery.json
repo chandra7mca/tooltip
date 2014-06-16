@@ -1,0 +1,44 @@
+{
+  "name": "tooltip",
+  "title": "jQuery ToolTip ",
+  "description": "A jump-start for Form tooltips and messages using JQuery.",
+  "keywords": [
+    "jquery",
+    "tooltips",
+	"messages",
+	"arrows",
+	"forms",
+	"dynamicmessages",
+	"errors",
+	"warnings",
+	"info",
+	"status",
+	"jtip",
+	"qtip",
+    "plugins"
+  ],
+  "version": "1.1.0",
+  "author": {
+    "name": "Chandra Sekhar N",
+    "url": "https://github.com/chandra7mca"
+  },
+  "maintainers": [
+    {
+      "name": "Chandra Sekhar N",
+      "url": "https://github.com/chandra7mca"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/chandra7mca/tooltip/issues",
+  "homepage": "https://github.com/chandra7mca/tooltip",
+  "docs": "https://github.com/chandra7mca/tooltip/blob/master/README.txt",
+  "download": "https://github.com/chandra7mca/tooltip/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.8.3"
+  }
+}
