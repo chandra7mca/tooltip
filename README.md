@@ -1,7 +1,7 @@
 Tooltip
 =======
 
-	Tooltip is a small and flexible JQuery Plugin to create tooltips which is having browser compatibility in IE7+, Firefox, Chrome, Safari, Opera.
+	 Tooltip is a small and flexible JQuery Plugin to create tooltips which is having browser compatibility in IE7+, Firefox, Chrome, Safari, Opera.
 It can be used as tooltips for any html element based on jquery selectors. It is simple, easier to use, beautiful and small in size.
 
 Features :
